@@ -1,9 +1,9 @@
 # view_NYC_restaurants
 
-###Purpose:
+### Purpose:
 learn react-native mobile dev
 
-###Accomplished: 
+### Accomplished: 
 * using axios to make network request to external yelp API
 * making hooks re-usable
 * stack navigation with parameters
