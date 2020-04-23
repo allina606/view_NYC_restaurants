@@ -1,0 +1,7 @@
+import axios
+create pre-configured version of it to work
+specifically with yelp api
+
+import axios
+create intance of axios
+preconfigure to work w specific api
